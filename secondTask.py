@@ -1,0 +1,5 @@
+name = input('Your name: ')
+secondName = input('Second name: ')
+grage = input('Your grade: ')
+classes = input('Classes: ')
+print('Я ' + surname, name + ', ученик ' + grade + ' класса.\n На этой неделе у меня ' + classes + ' уроков')
